@@ -11,6 +11,4 @@ live site : https://edu-mark.netlify.app/
 1. Four Route Added.
 2. Header and Footer added
 3. Deployed site.
-4.  
-
   
