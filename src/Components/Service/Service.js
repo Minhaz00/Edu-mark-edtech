@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 import Hsc from '../Hsc/Hsc';
 import Skill from '../Skill/Skill';
 import Ssc from '../SSC/Ssc';

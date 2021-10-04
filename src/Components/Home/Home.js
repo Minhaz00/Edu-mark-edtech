@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 import home from '../../39015.jpg';
 import Intro from '../intro/Intro';
 const Home = () => {
