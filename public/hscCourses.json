@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Physic 1st paper",
+    "rating": 4,
+    "instructor": "Fazlul karim",
+    "img": "https://thumbs.dreamstime.com/b/physics-doodles-lettering-physics-doodles-lettering-education-vector-illustration-137829167.jpg",
+    "lecture": 25
+  },
+  {
+    "title": "Math 1st paper",
+    "rating": 4.5,
+    "instructor": "Imtiaz Rishat",
+    "img": "https://demmelearning.com/wp-content/uploads/2020/07/Make-Math-Engaging-for-Kids-with-Philosophy-.png",
+    "lecture": 20
+  },
+  {
+    "title": "Chemistry 1st paper",
+    "rating": 4,
+    "instructor": "Ahnaf Nabil",
+    "img": "https://leverageedu.com/blog/wp-content/uploads/2020/04/basic-chemistry.png",
+    "lecture": 26
+  },
+  {
+    "title": "Biology 1st paper",
+    "rating": 5,
+    "instructor": "Tanveer Ahmed",
+    "img": "https://media-exp1.licdn.com/dms/image/C4D1BAQHg6yM2QSvcyg/company-background_10000/0/1601919495731?e=2159024400&v=beta&t=qd_KiJHwnOTXg3M-r72qGu7oUqiGW7WjMpVbZLqlSjA",
+    "lecture": 30
+  },
+  {
+    "title": "ICT 1st paper",
+    "rating": 4.5,
+    "instructor": "Sahim Hasnat",
+    "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/8888551_New%20Project.jpg",
+    "lecture": 15
+  },
+  {
+    "title": "Physic 2nd paper",
+    "rating": 4,
+    "instructor": "Yasin Arafat",
+    "img": "https://thumbs.dreamstime.com/b/physics-doodles-lettering-physics-doodles-lettering-education-vector-illustration-137829167.jpg",
+    "lecture": 22
+  },
+  {
+    "title": "Math 2nd paper",
+    "rating": 5,
+    "instructor": "Minhazul Alom",
+    "img": "https://demmelearning.com/wp-content/uploads/2020/07/Make-Math-Engaging-for-Kids-with-Philosophy-.png",
+    "lecture": 23
+  },
+  {
+    "title": "Chemistry 2nd paper",
+    "rating": 4.5,
+    "instructor": "Fazlul karim",
+    "img": "https://leverageedu.com/blog/wp-content/uploads/2020/04/basic-chemistry.png",
+    "lecture": 26
+  },
+  {
+    "title": "Biology 2nd paper",
+    "rating": 4,
+    "instructor": "Tanveer Ahmed",
+    "img": "https://media-exp1.licdn.com/dms/image/C4D1BAQHg6yM2QSvcyg/company-background_10000/0/1601919495731?e=2159024400&v=beta&t=qd_KiJHwnOTXg3M-r72qGu7oUqiGW7WjMpVbZLqlSjA",
+    "lecture": 28
+  },
+  {
+    "title": "ICT 2nd paper",
+    "rating": 4.4,
+    "instructor": "Ahnaf Nabil",
+    "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/8888551_New%20Project.jpg",
+    "lecture": 11
+  }
+]

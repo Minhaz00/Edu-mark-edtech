@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Web development",
+    "rating": 4,
+    "instructor": "Fazlul karim",
+    "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
+    "lecture": 25
+  },
+  {
+    "title": "Photography",
+    "rating": 4.5,
+    "instructor": "Imtiaz Rishat",
+    "img": "https://images.hindustantimes.com/img/2021/08/19/1600x900/patrick-dozkVhDyvhQ-unsplash_1628163163817_1629346849962.jpg",
+    "lecture": 20
+  },
+  {
+    "title": "Graphics design",
+    "rating": 4,
+    "instructor": "Ahnaf Nabil",
+    "img": "https://leverageedu.com/blog/wp-content/uploads/2020/04/basic-chemistry.png",
+    "lecture": 26
+  },
+  {
+    "title": "SEO",
+    "rating": 5,
+    "instructor": "Tanveer Ahmed",
+    "img": "https://www.geeksscan.com/wp-content/uploads/2021/03/SEO-Pillar-Post-Art-.png",
+    "lecture": 30
+  }
+]
