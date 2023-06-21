@@ -5,8 +5,8 @@ const Header = () => {
     return (
         <div className='flex items-baseline justify-between bg-gray-100'>
             <div className='flex items-center'>
-                <img className='h-10 ml-4' src={logo} alt="" />
-                <h1 className='text-5xl text-blue-500 py-8'>EduMark</h1>
+                <img className='h-6 ml-4 ' src={logo} alt="" />
+                <h1 className='text-2xl font-bold text-blue-500 py-6'>EduMark</h1>
             </div>
             
             <nav className='px-20  text-blue-600'> 
